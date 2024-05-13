@@ -7,7 +7,7 @@
 
 <!-- About -->
 ## About Me
-Software engineer based in Paris, specializing in C++ development with Qt/QML on embedded Linux platforms.
+Software engineer based in Paris, curently doing C++ development with Qt/QML on embedded Linux platforms.
 
 Graduated from school 42 in Paris, currently working towards validating the RNCP 7 title "Information Systems and Networks" alongside my job.
 
