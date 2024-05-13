@@ -15,7 +15,7 @@ My projects for RNCP 7 validation are oriented towards security, reverse enginee
 
 <!-- Skills -->
 ## Skills
-- 💻 Languages: C, C++, Python, Intel ASM, JavaScript/TypeScript, QML
+- 💻 Languages: C, C++, Python, Bash script, Intel ASM, JavaScript/TypeScript, QML
 - 🛠 Systems: Linux, Qt, Buildroot, Docker, NestJS, VueJS
 
 <!-- Interests -->
@@ -32,7 +32,7 @@ You can check out the common core projects I did for 42 school in this single re
 The projects I'm doing for the RNCP 7 title are added as independent repositories, here are some examples of the ones I made public:
 - [LittlePenguin](https://github.com/agiraudet/little-penguin): Linux Kernel Development, based on the Eudyptula Challenge
 - [SnowCrash](https://github.com/agiraudet/snowcrash): CTF-type challenge, exploring various exploitation methods
-- [Rainfall](https://github.com/agiraudet/rainfall): CTF-type challenge, focus on binary exploitation
+- [Rainfall](https://github.com/agiraudet/rainfall): CTF-type challenge, focused on binary exploitation
 
 <!-- Contact -->
 ## Contact
