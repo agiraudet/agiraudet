@@ -2,7 +2,7 @@
 <h1 align="center">✨ A.Giraudet ✨</h1>
 <p align="center">
   <a href="https://github.com/agiraudet"><img src="https://img.shields.io/github/followers/agiraudet?label=Follow&style=social" alt="GitHub"></a>
-  <a href="https://www.linkedin.com/in/agiraudet/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/agiraude/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <!-- About -->
@@ -37,4 +37,4 @@ The projects I'm doing for the RNCP 7 title are added as independent repositorie
 <!-- Contact -->
 ## Contact
 - 📧 Email: alois.giraudet@gmail.com
-- 🌐 LinkedIn: [linkedin.com/in/agiraudet](https://www.linkedin.com/in/agiraudet/)
+- 🌐 LinkedIn: [linkedin.com/in/agiraude](https://www.linkedin.com/in/agiraude/)
