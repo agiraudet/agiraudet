@@ -34,6 +34,12 @@ The projects I'm doing for the RNCP 7 title are added as independent repositorie
 - [SnowCrash](https://github.com/agiraudet/snowcrash): CTF-type challenge, exploring various exploitation methods
 - [Rainfall](https://github.com/agiraudet/rainfall): CTF-type challenge, focused on binary exploitation
 
+<!-- Games -->
+## Games
+On my free time, I also enjoy making some games:
+- 🦕 [Redino](https://github.com/agiraudet/redino): A colorful adventure/puzzle game made in C with SDL2
+- 💣 [MiniSweep](https://github.com/agiraudet/minisweep): A pretty minesweeper, made in C with Raylib
+
 <!-- Contact -->
 ## Contact
 - 📧 Email: alois.giraudet@gmail.com
