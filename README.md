@@ -41,6 +41,7 @@ I also make my own security related projects:
 <!-- Games -->
 ## Games
 On my free time, I also enjoy making some games:
+- 🔫 [DualStick](https://github.com/agiraudet/dualstick/): An online multiplayer cooperative shooter made in C++ with Enet/SDL2
 - 🦕 [Redino](https://github.com/agiraudet/redino): A colorful adventure/puzzle game made in C with SDL2
 - 💣 [MiniSweep](https://github.com/agiraudet/minisweep): A pretty minesweeper, made in C with Raylib
 
