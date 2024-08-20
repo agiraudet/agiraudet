@@ -11,7 +11,7 @@ Software engineer based in Paris, curently doing C++ development with Qt/QML on 
 
 Graduated from school 42 in Paris, currently working towards validating the RNCP 7 title "Information Systems and Networks" alongside my job.
 
-My projects for RNCP 7 validation are oriented towards security, reverse engineering, and OS development.
+My projects for RNCP 7 validation are oriented towards security, reverse engineering, and system development.
 
 <!-- Skills -->
 ## Skills
@@ -22,7 +22,7 @@ My projects for RNCP 7 validation are oriented towards security, reverse enginee
 ## Interests
 - 🔒 Security
 - 🔍 Reverse Engineering
-- ⚙️ Low-level and OS Development
+- ⚙️ Low-level and system Development
 
 <!-- 42 Projects -->
 ## 42 School
@@ -33,6 +33,10 @@ The projects I'm doing for the RNCP 7 title are added as independent repositorie
 - [LittlePenguin](https://github.com/agiraudet/little-penguin): Linux Kernel Development, based on the Eudyptula Challenge
 - [SnowCrash](https://github.com/agiraudet/snowcrash): CTF-type challenge, exploring various exploitation methods
 - [Rainfall](https://github.com/agiraudet/rainfall): CTF-type challenge, focused on binary exploitation
+
+## Security
+I also make my own security related projects:
+- [Xelf](https://github.com/agiraudet/xelf): Elf injector and packer
 
 <!-- Games -->
 ## Games
