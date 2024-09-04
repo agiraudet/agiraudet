@@ -15,8 +15,8 @@ My projects for RNCP 7 validation are oriented towards security, reverse enginee
 
 <!-- Skills -->
 ## Skills
-- 💻 Languages: C, C++, Python, Bash script, Intel ASM, JavaScript/TypeScript, QML
-- 🛠 Systems: Linux, Qt, Buildroot, Docker, NestJS, VueJS
+- 💻 Languages: C, C++, Python, ASM, OCaml JavaScript/TypeScript/QML
+- 🛠 Systems: Linux, Qt, Buildroot, Docker
 
 <!-- Interests -->
 ## Interests
