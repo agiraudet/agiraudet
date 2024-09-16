@@ -30,7 +30,7 @@ You can check out the common core projects I did for 42 school in this single re
 - [CommonCore](https://github.com/agiraudet/42school)
 
 The projects I'm doing for the RNCP 7 title are added as independent repositories, here are some examples of the ones I made public:
-- [ft_turing](https://github.com/agiraudet/ft_turing): Turing Machine Emulator, with a full writeup 
+- [ft_turing](https://github.com/agiraudet/ft_turing): OCaml Turing Machine Emulator, with a full writeup 
 - [LittlePenguin](https://github.com/agiraudet/little-penguin): Linux Kernel Development, based on the Eudyptula Challenge
 - [SnowCrash](https://github.com/agiraudet/snowcrash): CTF-type challenge, exploring various exploitation methods
 - [Rainfall](https://github.com/agiraudet/rainfall): CTF-type challenge, focused on binary exploitation
