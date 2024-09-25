@@ -20,7 +20,7 @@ My projects for RNCP 7 validation are oriented towards security, reverse enginee
 
 <!-- Interests -->
 ## Interests
-- 🔒 Security
+- 🧮 Functional Programming
 - 🔍 Reverse Engineering
 - ⚙️ Low-level and system Development
 
